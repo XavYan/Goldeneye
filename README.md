@@ -9,6 +9,8 @@
 
 - Spring Boot
 - FreeMarker
+- Bootstrap 5.1.3
+- Font Awesome 6.0.0
 
 ## Run de application
 
